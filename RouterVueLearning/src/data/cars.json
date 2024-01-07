@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Chevvy",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Laith",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "BMW",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Pi",
+            "number": "222-222-2222"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Sessy",
+            "number": "333-333-3333"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sujuki",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Eddy",
+            "number": "444-444-4444"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Lamborgini",
+        "price": 15000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Jess",
+            "number": "555-555-5555"
+        }
+    }
+]
